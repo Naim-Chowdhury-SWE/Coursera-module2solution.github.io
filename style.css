@@ -1,0 +1,12 @@
+li {
+    color:cornflowerblue;
+}
+
+a:hover, a:active  {
+    color:gold
+}
+a:link ,a:visited {
+    background-color: violet;
+    color: black;
+    border: 1px solid green;
+}

@@ -47,7 +47,7 @@ h1{
     .container {
         margin: 2% 5%;
     }
-   
+    
     .box {
         max-width: 30%;
         position: relative;
@@ -60,9 +60,11 @@ h1{
         /* background-color: #34a6f1; */
         margin: 2%;
     }  
+
     .box1, .box2 {
         max-width: 48%;
         margin: 1%;
+        min-height: 20vh;
     }
     .box1 {
         float: left;
